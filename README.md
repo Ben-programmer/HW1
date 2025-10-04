@@ -1,5 +1,9 @@
 # Project Report: Interactive Regression Model
 
+## Demo
+
+You can view a live demo of the application here: [https://aiot-hw1-lr.streamlit.app/](https://aiot-hw1-lr.streamlit.app/)
+
 ## 1. Project Overview
 
 This project is an interactive web application built with Streamlit that demonstrates a simple linear regression model. It allows users to dynamically generate a synthetic dataset, visualize it, train a linear regression model, and evaluate its performance. Users can also use the trained model to make predictions on new data points.
