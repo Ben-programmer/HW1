@@ -1,6 +1,6 @@
-# Project Report: Interactive Regression Model
+# HW1_Project Report: Interactive Linear Regression Model
 
-## Demo
+## Demo Site
 
 You can view a live demo of the application here: [https://aiot-hw1-lr.streamlit.app/](https://aiot-hw1-lr.streamlit.app/)
 
